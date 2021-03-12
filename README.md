@@ -1,12 +1,12 @@
 # Zillow Real Estate Investment Recommender
 
-BY: TaeJoon Kim
-
 ## PURPOSE: 
 This notebook aims to suggest potential locations for investing in U.S. real estate, based on historical data on the average housing prices. 
 
 ## BUSINESS PROBLEM: 
-The clients utilizing this notebook are people who intend to buy houses purely for investment purposes and not for residence. For this reason, in-depth considerations for each region and neighborhood are not included - only monthly price movements will be considered. 
+To suggest the best zip codes to invest in the U.S. as a retirement plan, based on Zillow Open Data.
+
+The clients utilizing this notebook are people who intend to buy houses purely for investment purposes and not for residence. For this reason, in-depth considerations for each region and neighborhood are not included - only monthly price movements will be considered.
 
 ## DATA: 
 Data used in this notebook contains the average monthly house prices from April 1996 to April 2018 (22 year span), organized by zipcode.
